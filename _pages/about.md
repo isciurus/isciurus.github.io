@@ -15,17 +15,17 @@ Previously, I worked as a security engineer at Facebook. Our investigation of th
 
 ## Selected Publications
 
-[**Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API**](https://arxiv.org/abs/2501.09798) <br>
+[**Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface**](https://arxiv.org/abs/2501.09798) <br>
 **Andrey Labunets**, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes <br>
-TBD
+46th IEEE Symposium on Security and Privacy, San Francisco, CA, May 2025.
 
 [**An Empirical Analysis on the Use and Reporting of National Security Letters**](https://arxiv.org/abs/2403.02768) <br>
 Alex Bellon, Miro Haller, **Andrey Labunets**, Enze Liu, Stefan Savage <br>
-To appear at 4th ACM Symposium on Computer Science and Law, 2025
+4th ACM Symposium on Computer Science and Law, Munich, Germany, 2025
 
 [**Experimental Analyses of the Physical Surveillance Risks in Client-Side Content Scanning**](https://www.ndss-symposium.org/ndss-paper/experimental-analyses-of-the-physical-surveillance-risks-in-client-side-content-scanning/) <br>
 Ashish Hooda, **Andrey Labunets**, Tadayoshi Kohno, Earlence Fernandes <br>
-Network and Distributed Systems Security (NDSS) Symposium, 2024
+28th ISOC Network and Distributed Security Symposium (NDSS), San Diego, CA, Feb 2024
 
 <!-- [**Overview of Abusive and Threatening Language Detection in Urdu at FIRE 2021**](https://arxiv.org/abs/2207.06710) <br>
 Maaz Amjad, Alisa Zhila, Grigori Sidorov, **Andrey Labunets**, Sabur Butta, Hamza Imam Amjad, Oxana Vitman, Alexander Gelbukh <br> -->
